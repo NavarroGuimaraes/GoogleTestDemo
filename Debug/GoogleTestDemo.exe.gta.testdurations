@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\T-Gamer\Downloads\UFPE\2019.2\CO\GoogleTestDemo\Debug\GoogleTestDemo.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="AccountTest.BankAccountStartsEmpty" Duration="1" />
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="BankAccountTest.BankAccountStartsEmpty" Duration="1" />
+    <TestDuration Test="BankAccountTest.canDepositMoney" Duration="1" />
+    <TestDuration Test="Default/WithdrawAccountTest.FinalBalance/0" Duration="1" />
+    <TestDuration Test="Default/WithdrawAccountTest.FinalBalance/1" Duration="1" />
+    <TestDuration Test="Default/WithdrawAccountTest.FinalBalance/2" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
